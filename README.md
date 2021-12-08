@@ -1,16 +1,18 @@
 # inventory-management-system
-This is a simple inventory management system built for my DBMS course project. It has basic functionalities like adding categories, adding bands, adding products and placing orders.
+This is a simple inventory management system built for my DBMS course project. <br>It has basic functionalities like adding categories, adding bands, adding products and placing orders.
 
 # Technologies used in this project
-PHP
-MySQL
-HTML
-Bootstrap
-jQuery
+PHP<br>
+MySQL<br>
+HTML<br>
+Bootstrap<br>
+jQuery<br>
 
 # Team Members
-Shahriar Tamjid
-Ridowana Tabassum
-Tamanna Tabassum Oishi
+Shahriar Tamjid<br>
+Ridowana Tabassum<br>
+Tamanna Tabassum Oishi<br>
+
+From Notre Dame University Bangladesh.
 
 # Thank you for your time :)
